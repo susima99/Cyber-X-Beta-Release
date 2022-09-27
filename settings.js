@@ -37,7 +37,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
 global.vcardowner = ['0704274987'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
+global.ownername = "SACHIYA MD BOT" //ur owner name
 global.ytname = "YT: TGM Arcade" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
@@ -46,20 +46,20 @@ global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 global.owner = ['0704274987']
 global.ownertag = '0704274987' //ur tag number
 global.botnumber = '0704274987' //Add your Bot Number For Log
-global.botname = 'CYBER-X BETA EDITION' //ur bot name
+global.botname = 'SACHIYA MD BOT' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
 global.linkz = 'https://youtu.be/uzMbW5v9QLE'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
-global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
-global.author = "DARK ALPHA" //ur sticker watermark author
-global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
-global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
-global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
-global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
+global.packname = "SACHIYA MD BOT" //ur sticker watermark packname
+global.author = "SACHIYA MD BOT" //ur sticker watermark author
+global.footer = "SACHIYA MD BOT"
+global.aliveimg ="https://i.pinimg.com/originals/95/e3/1b/95e31ba3d2d51ac1c90c33f2a3e17891.png"
+global.allmenuimg ="https://i.pinimg.com/originals/95/e3/1b/95e31ba3d2d51ac1c90c33f2a3e17891.png"
+global.welcomeimg= "https://i.pinimg.com/originals/95/e3/1b/95e31ba3d2d51ac1c90c33f2a3e17891.png
+global.gbyeimg = "https://i.pinimg.com/originals/95/e3/1b/95e31ba3d2d51ac1c90c33f2a3e17891.png"
 global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
 
 //BOT MEDIAS
