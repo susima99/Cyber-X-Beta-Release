@@ -17,11 +17,11 @@ global.APIKeys = {
 
 //AUTO FUNCTIONS ( 📵 DONT EDIT 📵 ) ITS FOR NEXT UPDATE
 
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autobio = false  // auto bio system checking on Developing Leval
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //VIDEO MENU 
@@ -36,16 +36,16 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94705574038'] //ur owner number
+global.vcardowner = ['0704274987'] //ur owner number
 global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
 global.ytname = "YT: TGM Arcade" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94705574038']
-global.ownertag = '94705574038' //ur tag number
-global.botnumber = '94705574038' //Add your Bot Number For Log
+global.owner = ['0704274987']
+global.ownertag = '0704274987' //ur tag number
+global.botnumber = '0704274987' //Add your Bot Number For Log
 global.botname = 'CYBER-X BETA EDITION' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
@@ -70,7 +70,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
+global.premium = ['0704274987'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
